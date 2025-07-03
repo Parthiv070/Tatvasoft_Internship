@@ -1,0 +1,10 @@
+<h2>Demo Component</h2>
+
+<label>Name: </label>
+<input type="text" [(ngModel)]="name" placeholder="Enter your name">
+
+<p>Hello, <strong>{{ name }}</strong>!</p>
+
+<p>Counter: {{ count }}</p>
+<button (click)="increment()">Increment</button>
+<button (click)="reset()">Reset</button>
