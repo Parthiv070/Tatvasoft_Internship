@@ -1,0 +1,262 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PARTHIV CHUDASAMA\\OneDrive\\Desktop\\Mission\\Mission\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35148984-D972-49B5-9CC3-03A5199BFCF2}|Mission.Entities\\Mission.Entities.csproj|c:\\users\\parthiv chudasama\\onedrive\\desktop\\mission\\mission\\mission.entities\\context\\missiondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35148984-D972-49B5-9CC3-03A5199BFCF2}|Mission.Entities\\Mission.Entities.csproj|solutionrelative:mission.entities\\context\\missiondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3060286-072E-46C3-A1E8-71A916395167}|Mission.Api\\Mission.Api.csproj|c:\\users\\parthiv chudasama\\onedrive\\desktop\\mission\\mission\\mission.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B3060286-072E-46C3-A1E8-71A916395167}|Mission.Api\\Mission.Api.csproj|solutionrelative:mission.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3060286-072E-46C3-A1E8-71A916395167}|Mission.Api\\Mission.Api.csproj|c:\\users\\parthiv chudasama\\onedrive\\desktop\\mission\\mission\\mission.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3060286-072E-46C3-A1E8-71A916395167}|Mission.Api\\Mission.Api.csproj|solutionrelative:mission.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F41B937-2390-4EFA-9175-33B9D8A7A22F}|Mission.Services\\Mission.Services.csproj|c:\\users\\parthiv chudasama\\onedrive\\desktop\\mission\\mission\\mission.services\\services\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F41B937-2390-4EFA-9175-33B9D8A7A22F}|Mission.Services\\Mission.Services.csproj|solutionrelative:mission.services\\services\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35148984-D972-49B5-9CC3-03A5199BFCF2}|Mission.Entities\\Mission.Entities.csproj|c:\\users\\parthiv chudasama\\onedrive\\desktop\\mission\\mission\\mission.entities\\models\\loginuserresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35148984-D972-49B5-9CC3-03A5199BFCF2}|Mission.Entities\\Mission.Entities.csproj|solutionrelative:mission.entities\\models\\loginuserresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F41B937-2390-4EFA-9175-33B9D8A7A22F}|Mission.Services\\Mission.Services.csproj|c:\\users\\parthiv chudasama\\onedrive\\desktop\\mission\\mission\\mission.services\\iservices\\iloginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F41B937-2390-4EFA-9175-33B9D8A7A22F}|Mission.Services\\Mission.Services.csproj|solutionrelative:mission.services\\iservices\\iloginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEBB326B-CD70-466E-BDD0-EC4EB61A6CB8}|Mission.Repositories\\Mission.Repositories.csproj|c:\\users\\parthiv chudasama\\onedrive\\desktop\\mission\\mission\\mission.repositories\\repositories\\loginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEBB326B-CD70-466E-BDD0-EC4EB61A6CB8}|Mission.Repositories\\Mission.Repositories.csproj|solutionrelative:mission.repositories\\repositories\\loginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEBB326B-CD70-466E-BDD0-EC4EB61A6CB8}|Mission.Repositories\\Mission.Repositories.csproj|c:\\users\\parthiv chudasama\\onedrive\\desktop\\mission\\mission\\mission.repositories\\irepositories\\iloginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEBB326B-CD70-466E-BDD0-EC4EB61A6CB8}|Mission.Repositories\\Mission.Repositories.csproj|solutionrelative:mission.repositories\\irepositories\\iloginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35148984-D972-49B5-9CC3-03A5199BFCF2}|Mission.Entities\\Mission.Entities.csproj|c:\\users\\parthiv chudasama\\onedrive\\desktop\\mission\\mission\\mission.entities\\migrations\\missiondbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35148984-D972-49B5-9CC3-03A5199BFCF2}|Mission.Entities\\Mission.Entities.csproj|solutionrelative:mission.entities\\migrations\\missiondbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3060286-072E-46C3-A1E8-71A916395167}|Mission.Api\\Mission.Api.csproj|c:\\users\\parthiv chudasama\\onedrive\\desktop\\mission\\mission\\mission.api\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3060286-072E-46C3-A1E8-71A916395167}|Mission.Api\\Mission.Api.csproj|solutionrelative:mission.api\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F41B937-2390-4EFA-9175-33B9D8A7A22F}|Mission.Services\\Mission.Services.csproj|c:\\users\\parthiv chudasama\\onedrive\\desktop\\mission\\mission\\mission.services\\helpers\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F41B937-2390-4EFA-9175-33B9D8A7A22F}|Mission.Services\\Mission.Services.csproj|solutionrelative:mission.services\\helpers\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEBB326B-CD70-466E-BDD0-EC4EB61A6CB8}|Mission.Repositories\\Mission.Repositories.csproj|c:\\users\\parthiv chudasama\\onedrive\\desktop\\mission\\mission\\mission.repositories\\mission.repositories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CEBB326B-CD70-466E-BDD0-EC4EB61A6CB8}|Mission.Repositories\\Mission.Repositories.csproj|solutionrelative:mission.repositories\\mission.repositories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35148984-D972-49B5-9CC3-03A5199BFCF2}|Mission.Entities\\Mission.Entities.csproj|c:\\users\\parthiv chudasama\\onedrive\\desktop\\mission\\mission\\mission.entities\\models\\loginuserrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35148984-D972-49B5-9CC3-03A5199BFCF2}|Mission.Entities\\Mission.Entities.csproj|solutionrelative:mission.entities\\models\\loginuserrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35148984-D972-49B5-9CC3-03A5199BFCF2}|Mission.Entities\\Mission.Entities.csproj|c:\\users\\parthiv chudasama\\onedrive\\desktop\\mission\\mission\\mission.entities\\migrations\\20250707071848_syncmodelchanges.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35148984-D972-49B5-9CC3-03A5199BFCF2}|Mission.Entities\\Mission.Entities.csproj|solutionrelative:mission.entities\\migrations\\20250707071848_syncmodelchanges.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ILoginService.cs",
+              "DocumentMoniker": "C:\\Users\\PARTHIV CHUDASAMA\\OneDrive\\Desktop\\Mission\\Mission\\Mission.Services\\IServices\\ILoginService.cs",
+              "RelativeDocumentMoniker": "Mission.Services\\IServices\\ILoginService.cs",
+              "ToolTip": "C:\\Users\\PARTHIV CHUDASAMA\\OneDrive\\Desktop\\Mission\\Mission\\Mission.Services\\IServices\\ILoginService.cs",
+              "RelativeToolTip": "Mission.Services\\IServices\\ILoginService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T08:20:00.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginUserResponseModel.cs",
+              "DocumentMoniker": "C:\\Users\\PARTHIV CHUDASAMA\\OneDrive\\Desktop\\Mission\\Mission\\Mission.Entities\\Models\\LoginUserResponseModel.cs",
+              "RelativeDocumentMoniker": "Mission.Entities\\Models\\LoginUserResponseModel.cs",
+              "ToolTip": "C:\\Users\\PARTHIV CHUDASAMA\\OneDrive\\Desktop\\Mission\\Mission\\Mission.Entities\\Models\\LoginUserResponseModel.cs",
+              "RelativeToolTip": "Mission.Entities\\Models\\LoginUserResponseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T08:17:41.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginService.cs",
+              "DocumentMoniker": "C:\\Users\\PARTHIV CHUDASAMA\\OneDrive\\Desktop\\Mission\\Mission\\Mission.Services\\Services\\LoginService.cs",
+              "RelativeDocumentMoniker": "Mission.Services\\Services\\LoginService.cs",
+              "ToolTip": "C:\\Users\\PARTHIV CHUDASAMA\\OneDrive\\Desktop\\Mission\\Mission\\Mission.Services\\Services\\LoginService.cs",
+              "RelativeToolTip": "Mission.Services\\Services\\LoginService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T08:14:00.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ILoginRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PARTHIV CHUDASAMA\\OneDrive\\Desktop\\Mission\\Mission\\Mission.Repositories\\IRepositories\\ILoginRepository.cs",
+              "RelativeDocumentMoniker": "Mission.Repositories\\IRepositories\\ILoginRepository.cs",
+              "ToolTip": "C:\\Users\\PARTHIV CHUDASAMA\\OneDrive\\Desktop\\Mission\\Mission\\Mission.Repositories\\IRepositories\\ILoginRepository.cs",
+              "RelativeToolTip": "Mission.Repositories\\IRepositories\\ILoginRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T08:12:42.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PARTHIV CHUDASAMA\\OneDrive\\Desktop\\Mission\\Mission\\Mission.Repositories\\Repositories\\LoginRepository.cs",
+              "RelativeDocumentMoniker": "Mission.Repositories\\Repositories\\LoginRepository.cs",
+              "ToolTip": "C:\\Users\\PARTHIV CHUDASAMA\\OneDrive\\Desktop\\Mission\\Mission\\Mission.Repositories\\Repositories\\LoginRepository.cs",
+              "RelativeToolTip": "Mission.Repositories\\Repositories\\LoginRepository.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAqwB8AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T08:12:47.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\PARTHIV CHUDASAMA\\OneDrive\\Desktop\\Mission\\Mission\\Mission.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Mission.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\PARTHIV CHUDASAMA\\OneDrive\\Desktop\\Mission\\Mission\\Mission.Api\\appsettings.json",
+              "RelativeToolTip": "Mission.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-07T07:03:04.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MissionDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\PARTHIV CHUDASAMA\\OneDrive\\Desktop\\Mission\\Mission\\Mission.Entities\\context\\MissionDbContext.cs",
+              "RelativeDocumentMoniker": "Mission.Entities\\context\\MissionDbContext.cs",
+              "ToolTip": "C:\\Users\\PARTHIV CHUDASAMA\\OneDrive\\Desktop\\Mission\\Mission\\Mission.Entities\\context\\MissionDbContext.cs",
+              "RelativeToolTip": "Mission.Entities\\context\\MissionDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T08:34:25.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PARTHIV CHUDASAMA\\OneDrive\\Desktop\\Mission\\Mission\\Mission.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Mission.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\PARTHIV CHUDASAMA\\OneDrive\\Desktop\\Mission\\Mission\\Mission.Api\\Program.cs",
+              "RelativeToolTip": "Mission.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T07:10:39.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MissionDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\PARTHIV CHUDASAMA\\OneDrive\\Desktop\\Mission\\Mission\\Mission.Entities\\Migrations\\MissionDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Mission.Entities\\Migrations\\MissionDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\PARTHIV CHUDASAMA\\OneDrive\\Desktop\\Mission\\Mission\\Mission.Entities\\Migrations\\MissionDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Mission.Entities\\Migrations\\MissionDbContextModelSnapshot.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAAGUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T08:30:56.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\PARTHIV CHUDASAMA\\OneDrive\\Desktop\\Mission\\Mission\\Mission.Api\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Mission.Api\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\PARTHIV CHUDASAMA\\OneDrive\\Desktop\\Mission\\Mission\\Mission.Api\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Mission.Api\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T07:32:57.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\Users\\PARTHIV CHUDASAMA\\OneDrive\\Desktop\\Mission\\Mission\\Mission.Services\\Helpers\\JwtService.cs",
+              "RelativeDocumentMoniker": "Mission.Services\\Helpers\\JwtService.cs",
+              "ToolTip": "C:\\Users\\PARTHIV CHUDASAMA\\OneDrive\\Desktop\\Mission\\Mission\\Mission.Services\\Helpers\\JwtService.cs",
+              "RelativeToolTip": "Mission.Services\\Helpers\\JwtService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T08:21:53.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Mission.Repositories.csproj",
+              "DocumentMoniker": "C:\\Users\\PARTHIV CHUDASAMA\\OneDrive\\Desktop\\Mission\\Mission\\Mission.Repositories\\Mission.Repositories.csproj",
+              "RelativeDocumentMoniker": "Mission.Repositories\\Mission.Repositories.csproj",
+              "ToolTip": "C:\\Users\\PARTHIV CHUDASAMA\\OneDrive\\Desktop\\Mission\\Mission\\Mission.Repositories\\Mission.Repositories.csproj",
+              "RelativeToolTip": "Mission.Repositories\\Mission.Repositories.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-07T08:24:31.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginUserRequestModel.cs",
+              "DocumentMoniker": "C:\\Users\\PARTHIV CHUDASAMA\\OneDrive\\Desktop\\Mission\\Mission\\Mission.Entities\\Models\\LoginUserRequestModel.cs",
+              "RelativeDocumentMoniker": "Mission.Entities\\Models\\LoginUserRequestModel.cs",
+              "ToolTip": "C:\\Users\\PARTHIV CHUDASAMA\\OneDrive\\Desktop\\Mission\\Mission\\Mission.Entities\\Models\\LoginUserRequestModel.cs",
+              "RelativeToolTip": "Mission.Entities\\Models\\LoginUserRequestModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T08:11:09.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20250707071848_SyncModelChanges.cs",
+              "DocumentMoniker": "C:\\Users\\PARTHIV CHUDASAMA\\OneDrive\\Desktop\\Mission\\Mission\\Mission.Entities\\Migrations\\20250707071848_SyncModelChanges.cs",
+              "RelativeDocumentMoniker": "Mission.Entities\\Migrations\\20250707071848_SyncModelChanges.cs",
+              "ToolTip": "C:\\Users\\PARTHIV CHUDASAMA\\OneDrive\\Desktop\\Mission\\Mission\\Mission.Entities\\Migrations\\20250707071848_SyncModelChanges.cs",
+              "RelativeToolTip": "Mission.Entities\\Migrations\\20250707071848_SyncModelChanges.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAmwA8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T07:18:48.664Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
