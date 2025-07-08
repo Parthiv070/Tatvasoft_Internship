@@ -1,0 +1,115 @@
+<div class="container-fluid ps-md-0">
+  <div class="row g-0">
+    <!-- Left Image Section -->
+    <div class="d-none d-md-flex col-md-6 col-lg-8 bg-image position-relative">
+      <img src="assets/Images/image.png" alt="No Image" class="w-100" />
+      <div class="carousel-caption">
+        <p class="heading">Sed ut perspiciatis unde omnis iste natus voluptatem.</p>
+        <p class="content">
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+          Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+          Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+        </p>
+      </div>
+    </div>
+
+    <!-- Right Register Form Section -->
+    <div class="col-12 col-md-6 col-lg-4">
+      <div class="login d-flex align-items-center py-3">
+        <div class="container">
+          <div class="row justify-content-center">
+            <div class="col-12 col-sm-10 col-md-11 col-lg-10">
+              <form [formGroup]="registerForm" (ngSubmit)="onSubmit()">
+                <!-- First Name -->
+                <div class="form-group mb-3">
+                  <label class="col-form-label">First Name</label>
+                  <input type="text" class="form-control" formControlName="firstName" placeholder="First Name" autofocus />
+                  <span class="text-danger" *ngIf="firstName.invalid && (firstName.touched || formValid)">
+                    Please Enter First Name
+                  </span>
+                </div>
+
+                <!-- Last Name -->
+                <div class="form-group mb-3">
+                  <label class="col-form-label">Last Name (Surname)</label>
+                  <input type="text" class="form-control" formControlName="lastName" placeholder="Last Name" />
+                  <span class="text-danger" *ngIf="lastName.invalid && (lastName.touched || formValid)">
+                    Please Enter Last Name
+                  </span>
+                </div>
+
+                <!-- Phone Number -->
+                <div class="form-group mb-3">
+                  <label class="col-form-label">Phone Number</label>
+                  <input type="text" class="form-control" formControlName="phoneNumber" placeholder="Phone Number" />
+                  <span class="text-danger" *ngIf="phoneNumber.invalid && (phoneNumber.touched || formValid)">
+                    <span *ngIf="phoneNumber.errors?.['required']">Please Enter Phone Number</span>
+                    <span *ngIf="phoneNumber.errors?.['minlength']">Phone Number must be 10 digits</span>
+                    <span *ngIf="phoneNumber.errors?.['maxlength']">Phone Number must be 10 digits</span>
+                  </span>
+                </div>
+
+                <!-- Email Address -->
+                <div class="form-group mb-3">
+                  <label class="col-form-label">Email Address</label>
+                  <input type="email" class="form-control" formControlName="emailAddress" placeholder="Email Address" />
+                  <span class="text-danger" *ngIf="emailAddress.invalid && (emailAddress.touched || formValid)">
+                    <span *ngIf="emailAddress.hasError('required')">Please Enter Email Address</span>
+                    <span *ngIf="emailAddress.hasError('email')">Please Enter a Valid Email</span>
+                  </span>
+                </div>
+
+                <!-- Password -->
+                <div class="form-group mb-3">
+                  <label class="col-form-label">Password</label>
+                  <input type="password" class="form-control" formControlName="password" placeholder="Password" />
+                  <span class="text-danger" *ngIf="password.invalid && (password.touched || formValid)">
+                    <span *ngIf="password.errors?.['required']">Please Enter Password</span>
+                    <span *ngIf="password.errors?.['minlength']">Password must be at least 5 characters</span>
+                    <span *ngIf="password.errors?.['maxlength']">Password must not exceed 10 characters</span>
+                  </span>
+                </div>
+
+                <!-- Confirm Password -->
+                <div class="form-group mb-3">
+                  <label class="col-form-label">Confirm Password</label>
+                  <input type="password" class="form-control" formControlName="confirmPassword" placeholder="Confirm Password" />
+                  <span class="text-danger" *ngIf="confirmPassword.invalid && (confirmPassword.touched || formValid)">
+                    <span *ngIf="confirmPassword.hasError('required')">Please Enter Confirm Password</span>
+                  </span>
+                  <span class="text-danger" *ngIf="registerForm.hasError('notmatched') && confirmPassword.valid">
+                    Password and Confirm Password do not match
+                  </span>
+                </div>
+
+                <!-- Submit Button -->
+                <div class="d-grid mt-4 mb-4">
+                  <button class="btn-login" type="submit">
+                    <span class="Login">Register</span>
+                  </button>
+                  <div class="text-center mt-3">
+                    <p class="Lost">
+                      Already registered?
+                      <span><a routerLink="/">Login Now</a></span>
+                    </p>
+                  </div>
+                </div>
+              </form>
+            </div>
+          </div>
+
+          <!-- Privacy Policy -->
+          <div class="text-center mb-3">
+            <a
+              routerLink="/privacyPolicy"
+              class="privacy-policy"
+              style="text-decoration: none; cursor: pointer; color: black"
+              >Privacy Policy</a
+            >
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

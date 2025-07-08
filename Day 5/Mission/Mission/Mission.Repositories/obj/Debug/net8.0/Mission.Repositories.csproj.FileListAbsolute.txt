@@ -1,0 +1,31 @@
+D:\Summer Internship 2025\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Repositories.deps.json
+D:\Summer Internship 2025\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Repositories.dll
+D:\Summer Internship 2025\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Repositories.pdb
+D:\Summer Internship 2025\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Entities.dll
+D:\Summer Internship 2025\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Entities.pdb
+D:\Summer Internship 2025\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.csproj.AssemblyReference.cache
+D:\Summer Internship 2025\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\Summer Internship 2025\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.AssemblyInfoInputs.cache
+D:\Summer Internship 2025\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.AssemblyInfo.cs
+D:\Summer Internship 2025\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.csproj.CoreCompileInputs.cache
+D:\Summer Internship 2025\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.sourcelink.json
+D:\Summer Internship 2025\Mission\Mission.Repositories\obj\Debug\net8.0\Mission..7EFB1ED9.Up2Date
+D:\Summer Internship 2025\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.dll
+D:\Summer Internship 2025\Mission\Mission.Repositories\obj\Debug\net8.0\refint\Mission.Repositories.dll
+D:\Summer Internship 2025\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.pdb
+D:\Summer Internship 2025\Mission\Mission.Repositories\obj\Debug\net8.0\ref\Mission.Repositories.dll
+D:\Downloads\Mission\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Repositories.deps.json
+D:\Downloads\Mission\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Repositories.dll
+D:\Downloads\Mission\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Repositories.pdb
+D:\Downloads\Mission\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Entities.dll
+D:\Downloads\Mission\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Entities.pdb
+D:\Downloads\Mission\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.csproj.AssemblyReference.cache
+D:\Downloads\Mission\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\Mission\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.AssemblyInfoInputs.cache
+D:\Downloads\Mission\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.AssemblyInfo.cs
+D:\Downloads\Mission\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.csproj.CoreCompileInputs.cache
+D:\Downloads\Mission\Mission\Mission.Repositories\obj\Debug\net8.0\Mission..7EFB1ED9.Up2Date
+D:\Downloads\Mission\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.dll
+D:\Downloads\Mission\Mission\Mission.Repositories\obj\Debug\net8.0\refint\Mission.Repositories.dll
+D:\Downloads\Mission\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.pdb
+D:\Downloads\Mission\Mission\Mission.Repositories\obj\Debug\net8.0\ref\Mission.Repositories.dll
